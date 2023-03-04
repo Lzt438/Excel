@@ -47,3 +47,10 @@ a Excel training
 
 
 ![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-04%20152109.png)
+
+
+根据合并后的数据表插入的数据透视表如下:
+
+1.商品类别与购买数量
+
+![image]()
