@@ -64,3 +64,9 @@ a Excel training
 ![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-04%20182349.png)
 
 可知男宝宝的婴儿商品购买数量多于女宝宝
+
+
+3.宝宝年龄以及商品类别与商品购买数量的关系
+
+![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-03%20172245.png)
+
