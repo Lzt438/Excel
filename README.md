@@ -38,3 +38,7 @@ a Excel training
 
 
 ![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-04%20115409.png)
+
+根据购买数量排序后,发现有一个用户的购买数量为1000,严重大于其他值,去除掉此异常值
+去除后，按用户ID合并两表
+
