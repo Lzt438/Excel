@@ -33,3 +33,5 @@ a Excel training
 5.将购买时间与出生日期改为日期格式,将性别字段改为0--男, 1--女, 2--未知
 
 清洗后的数据如下图：
+
+![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-04%20115408.png)
