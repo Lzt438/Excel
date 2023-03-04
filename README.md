@@ -61,4 +61,6 @@ a Excel training
 
 2.宝宝性别与婴儿商品购买数量间的关系
 
-![image]()
+![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-04%20182349.png)
+
+可知男宝宝的婴儿商品购买数量多于女宝宝
