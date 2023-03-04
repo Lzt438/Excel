@@ -56,3 +56,9 @@ a Excel training
 1.商品类别与购买数量
 
 ![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-04%20181511.png)
+
+可知"50008618"和"50014815"这两类商品购买数量较多
+
+2.宝宝性别与婴儿商品购买数量间的关系
+
+![image]()
