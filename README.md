@@ -80,4 +80,9 @@ a Excel training
 
 ![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-03%20172245.png)
 
+
+![image](https://github.com/Lzt438/Excel/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-12%20162244.png)
+
+
+
 可知宝宝年龄为0-2岁的用户购买商品数量最多,商品类别"28"和"50008168"呈现宝宝年龄越小购买数量越多的趋势
